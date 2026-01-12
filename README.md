@@ -8,7 +8,7 @@ An automated trading bot that executes real-time trades on Uniswap V2 and V3 DEX
 
 ## Features
 
-- **Real-time DEX Pool Monitoring**: Subscribes to Bitquery Kafka stream for live DEX pool events
+- **Real-time DEX Pool Monitoring**: Subscribes to Bitquery Kafka stream for live DEX pool events. Full schema available [here](https://github.com/bitquery/streaming_protobuf/blob/main/evm/dex_pool_block_message.proto)
 - **Dynamic Direction Selection**: Automatically determines optimal trade direction (AtoB or BtoA) based on liquidity depth analysis
 - **Multi-Protocol Support**: Supports Uniswap V2 and V3 protocols
 - **Intelligent Slippage Management**: Uses median slippage from stream data with configurable fallbacks
