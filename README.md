@@ -2,7 +2,7 @@
 
 An automated trading bot that executes real-time trades on Uniswap V2 and V3 DEX pools using live slippage data from Bitquery. The bot analyzes liquidity depth, determines optimal trade directions, and automatically opens and closes positions based on market conditions.
 
-## ⚠️ WARNING
+### ⚠️ WARNING
 
 **This bot executes REAL trades with REAL funds on the Ethereum mainnet. Use at your own risk. Always test thoroughly and start with small amounts.**
 
