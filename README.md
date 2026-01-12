@@ -1,4 +1,4 @@
-# Real-time Trading Bot using Slippage on Ethereum, Arbitrum, Base, BSC
+# Trading Bot using Real-time Slippage on Ethereum, Arbitrum, Base, BSC
 
 An automated trading bot that executes real-time trades on Uniswap V2 and V3 DEX pools using live slippage data from Bitquery. The bot analyzes liquidity depth, determines optimal trade directions, and automatically opens and closes positions based on market conditions.
 
